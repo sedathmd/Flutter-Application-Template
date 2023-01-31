@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087630129899",
+    "project_id": "sedathmdflutterapp",
+    "storage_bucket": "sedathmdflutterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087630129899:android:dbfb2737e68e5c66545cae",
+        "android_client_info": {
+          "package_name": "com.example.sedathmd_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087630129899-9c5n1euavd23ilsguie69maq59gunj64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcq-GQvj3hPVSvuzGmrK15GQUpK8suo64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087630129899-9c5n1euavd23ilsguie69maq59gunj64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
